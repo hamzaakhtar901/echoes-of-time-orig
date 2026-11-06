@@ -1,0 +1,6 @@
+{
+  "name": "Echoes of Time - Holographic Memories",
+  "description": "An emotionally moving cinematic experience capturing an elderly grandfather sharing glowing holographic memories and vintage letters with his grandson.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
